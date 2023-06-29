@@ -7,3 +7,7 @@
 `sudo systemctl apache2`
 
 ![Apache status](./images/apache%20installed.PNG)
+
+..[install openssh](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
+
+[openssh.key management](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
